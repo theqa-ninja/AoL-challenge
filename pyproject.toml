@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "aol-challenge"
+version = "0.1.0"
+description = ""
+authors = ["QA ninja <qa_ninja@live.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pytest-playwright = "*"
+Faker = "*"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
