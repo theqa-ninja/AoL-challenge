@@ -1,4 +1,4 @@
-# Age of Learning Coding challenge
+# AoL Coding challenge
 
 ## Objective:
 Implement the test case below
